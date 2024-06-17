@@ -58,7 +58,7 @@
 
   ###
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&weight=600&size=11&duration=800&pause=200&color=08FF00&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=110&lines=Aprendi+Python+com+15+anos%2C+e+desenvolvi+um+%22jogo%22+enquanto+;aprendia+usar+a+biblioteca+Androidhelper+(sem+interface+gr%C3%A1fica).;Futuramente+no+local+de+trabalho+desenvolvi+automa%C3%A7%C3%A3o+de+algumas+tarefas;que+antes+eram+manuais.;Atualmente+reviso+meus+estudos%2C+principalmente+com+JavaScript+espero+me;incluir+e+colaborar+com+a+comunidade+do+GithHub." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&weight=600&size=11&duration=1200&pause=100&color=08FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=110&lines=Aprendi+Python+com+15+anos%2C+e+desenvolvi+um+%22jogo%22+enquanto+;aprendia+usar+a+biblioteca+Androidhelper+(sem+interface+gr%C3%A1fica). ;Atualmente,+no+local+de+trabalho+desenvolvi+automa%C3%A7%C3%A3o+de+algumas+tarefas;que+antes+eram+manuais.;Reviso+meus+estudos%2C+principalmente+com+JavaScript.+Espero+me;incluir,+e+colaborar+com+a+comunidade+do+GithHub." alt="Typing SVG" /></a>
 
 ###
 
@@ -89,7 +89,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&pause=1000&color=C7C7C7&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=Tecnologias/Contatos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&pause=1000&color=C7C7C7&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=> Tecnologias/Contatos" alt="Typing SVG" /></a>
 
 ###
 
@@ -99,7 +99,7 @@
   </a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&pause=1000&color=C7C7C7&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=Meu gosto musical altamente duvidoso" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&pause=1000&color=C7C7C7&center=true&multiline=true&repeat=false&random=true&width=450&height=25&lines=> Meu gosto musical altamente duvidoso" alt="Typing SVG" /></a>
 </div>
 
 </div>
