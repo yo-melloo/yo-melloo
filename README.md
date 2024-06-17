@@ -1,4 +1,11 @@
-<h2 align="left">Olá, meu nome é Gustavo Mello, e Bem-Vindo ao meu GitHub!</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7AD00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=450&height=50&lines=Ol%C3%A1+mundo!" alt="Typing SVG" />  </a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7AD00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=450&height=50&lines=Dev+iniciante%2C+20+anos" alt="Typing SVG" /></a>
+  
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F7AD00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=450&height=50&lines=Imperatriz%2C+Maranh%C3%A3o" alt="Typing SVG" /></a>
+</div>
 
 ###
 
@@ -6,8 +13,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yo-melloo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+ 
+  ###
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yo-melloo&radius=15&area=true&hide_border=true&hide_title=false&theme=github-dark&custom_title=Atividade%20Recente" height="150" alt="activity-graph graph"  />
+
+  ###
+  
   <img src="https://streak-stats.demolab.com?user=yo-melloo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=15" height="135" alt="streak graph"  />
+
+###
+  
   <img src="https://github-readme-stats.vercel.app/api?username=yo-melloo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
@@ -43,12 +59,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yo-melloo/yo-melloo/output/snake.svg" alt="Snake animation" />
 
 ###
 
