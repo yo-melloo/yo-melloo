@@ -54,6 +54,9 @@
 <div align="center">
   <img align="center" height="100" src="https://cdn.thingiverse.com/renders/80/ca/d8/f9/2c/ee400e5db9967e47aa2639e515786f5e_display_large.jpg"  />
   <br clear=both>
+
+###
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&pause=1000&color=C7C7C7&center=true&multiline=true&repeat=true&random=true&width=450&height=25&lines=Ad+Victoriam!" alt="Typing SVG" /></a>
 
   ###
