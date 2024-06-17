@@ -13,11 +13,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="140" src="https://cdn.thingiverse.com/renders/80/ca/d8/f9/2c/ee400e5db9967e47aa2639e515786f5e_display_large.jpg"  />
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
@@ -31,7 +33,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.instagram.com/yo.melloo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
