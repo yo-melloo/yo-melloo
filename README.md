@@ -13,8 +13,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="140" src="https://cdn.thingiverse.com/renders/80/ca/d8/f9/2c/ee400e5db9967e47aa2639e515786f5e_display_large.jpg"  />
 
 ###
