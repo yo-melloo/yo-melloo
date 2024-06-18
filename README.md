@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=800&pause=200&color=1F6EE8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=100&lines=Gustavo+Mello;Dev+Iniciante%2C+20+anos;Imperatriz%2C+Maranh%C3%A3o" alt="Typing SVG" /></a>
+
 </div>
 
 ###  
