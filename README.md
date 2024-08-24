@@ -109,3 +109,9 @@
 </div>
 
 ###
+
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4D2DAQGIVafes38bQw/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1724471261298?e=1725076800&v=beta&t=iuI3mMWLf5J4ckOwT_2Zk30Mu8tUvElcYUmDHZEk7t4" width="60" height="55" style="border-radius: 16px"/>  
+  
+<p>- "Challenge: Decodificador - COMPLETO ✅"</p>
+</div>
