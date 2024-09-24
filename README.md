@@ -24,7 +24,7 @@
     <ul align="left">
     <li>🏝️ 20 anos, Maranhense.</li>
     <li>☕ Atualmente estudando Java e Spring pelo programa ONE (Oracle Next Education).</li>  
-    <li>🗂️ Desenvolvendo pequenos projetos de aprendizado e dominio de linguagens de programação (mais abaixo).</li>  
+    <li>🗂️ Desenvolvendo pequenos projetos de aprendizado e domínio de linguagens de programação (abaixo).</li>  
     <li>📚 Em processo de matrícula em curso de Engenharia de Software.</li>
     </ul>
   </div>
