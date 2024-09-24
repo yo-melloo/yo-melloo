@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-  <img align="right" height="160" src="https://giffiles.alphacoders.com/153/15328.gif"  /> 
+  <img align="right" height="120" src="https://giffiles.alphacoders.com/153/15328.gif"  /> 
 
 ###
 
