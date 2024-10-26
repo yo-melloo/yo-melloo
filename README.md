@@ -69,3 +69,9 @@
 </div>
 
 ###
+
+<h1>Medalhas dos desafios Alura</h1>
+
+| <img src="https://github.com/user-attachments/assets/d4bbee8d-22af-4b90-bd8e-39492f94663b" height="100" alt="Badge desafio decodificador de texto">  | <img src="https://github.com/user-attachments/assets/95e845b8-4b93-4029-8c33-5f7ef082373d" height="100" alt="Badge desafio conversor de moedas"> |
+| ------------- | ------------- |
+| [Desafio Decodificador de texto](https://github.com/yo-melloo/Decodificador-de-Texto-ONE-Challenge)  | [Desafio Conversor de moedas](https://github.com/yo-melloo/Conversor-de-Moedas-ONE-Challenge)  |
