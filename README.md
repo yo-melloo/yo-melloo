@@ -42,13 +42,16 @@
   <h3> 🛸 Tecnologias </h3>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
