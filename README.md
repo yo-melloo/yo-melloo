@@ -22,10 +22,10 @@
 <h4>👨🏽‍💻 Resumo</h4>
 <div align="center">
     <ul align="left">
-    <li>🏝️ 20 anos, Maranhense.</li>
-    <li>☕ Atualmente estudando Java e Spring pelo programa ONE (Oracle Next Education).</li>  
-    <li>🗂️ Desenvolvendo pequenos projetos de aprendizado e domínio de linguagens de programação (abaixo).</li>  
-    <li>📚 Em processo de matrícula em curso de Engenharia de Software.</li>
+    <li>🏝️ 21 anos, Maranhense.</li>
+    <li>☕ Atualmente formado no programa ONE (Oracle Next Education).</li>  
+    <li>🗂️ Desenvolvendo pequenos projetos de aprendizado e domínio de linguagens de programação (Java Spring e SQL principalmente) (abaixo).</li>  
+    <li>📚 Aberto a oportunidades de trabalho para Desenvolvedor Júnior.</li>
     </ul>
   </div>
 </div>
@@ -77,8 +77,10 @@
   
 <h1>Medalhas dos desafios Alura</h1>
 
-| <img src="https://github.com/user-attachments/assets/d4bbee8d-22af-4b90-bd8e-39492f94663b" height="100" alt="Badge desafio decodificador de texto">  | <img src="https://github.com/user-attachments/assets/95e845b8-4b93-4029-8c33-5f7ef082373d" height="100" alt="Badge desafio conversor de moedas"> |
-| ------------- | ------------- |
-| [Desafio Decodificador de texto](https://github.com/yo-melloo/Decodificador-de-Texto-ONE-Challenge)  | [Desafio Conversor de moedas](https://github.com/yo-melloo/Conversor-de-Moedas-ONE-Challenge)  |
+| <img src="https://github.com/user-attachments/assets/d4bbee8d-22af-4b90-bd8e-39492f94663b" height="100" alt="Badge desafio decodificador de texto">  | <img src="https://github.com/user-attachments/assets/95e845b8-4b93-4029-8c33-5f7ef082373d" height="100" alt="Badge desafio conversor de moedas"> | <img src="https://github.com/user-attachments/assets/6c557954-11ee-4f7c-a445-a47844e49bd8" height="100" alt="Badge do Deasafio Forum-hub"> | <img src="https://github.com/user-attachments/assets/2a6cdfcc-90c8-4649-8b28-1ace595853d9" height="100" alt="Badge do Deasafio Forum-hub"> |
+| ------------- | ------------- | ------------- | ------------- |
+| [Desafio Decodificador de texto](https://github.com/yo-melloo/Decodificador-de-Texto-ONE-Challenge)  | [Desafio Conversor de moedas](https://github.com/yo-melloo/Conversor-de-Moedas-ONE-Challenge)  | [Desafio Forum-Hub](https://github.com/yo-melloo/ForumHub-One-Challenge) | [Desafio Literalura](https://github.com/yo-melloo/Literalura-ONE-Challenge) |
 
 </div>
+
+
